@@ -1,2 +1,1 @@
-# Homework-Exception-Handling
-Homework on exception handling. Fill out the missing code as needed.
+See Slack message with problems for Homework. Thanks.
